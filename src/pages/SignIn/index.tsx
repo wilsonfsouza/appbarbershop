@@ -70,7 +70,7 @@ const SignIn: React.FunctionComponent = () => {
           <Container>
             <Image source={logoImg} />
             <View>
-              <Title>Sign In with</Title>
+              <Title>Sign In</Title>
             </View>
 
             <Form style={{ width: '100%' }} ref={formRef} onSubmit={handleSignIn}>
