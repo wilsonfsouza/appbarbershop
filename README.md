@@ -64,7 +64,7 @@ Need Authentication:
 
 ## 🎨 Layout
 <br />
-<img style="margin-right: 5px; max-width: 400px;" alt="Profile Screen" title="#ProfileScreen" src="./docs/assets/GoBarber-app.gif" width="50%">
+<img style="margin-right: 5px; max-width: 400px;" alt="Profile Screen" title="#ProfileScreen" src="./docs/assets/GoBarber-app.gif" width="30%">
 <br />
 
 ### **Sign In & Sign Up:**
