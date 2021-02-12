@@ -74,7 +74,7 @@ Need Authentication:
 
 <p align="center" style="display: flex; align-item: center; justify-content: center;">
   <img style="margin-right: 5px; max-width: 240px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-removebg-preview.png" width="30%">
-  <img style="margin-right: 5px; max-width: 240px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-email-removebg-preview.png" width="30%">
+  <img style="margin-right: 5px; max-width: 240px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-email-removebg-preview.png" width="31%">
   <img style="max-width: 240px;" alt="Sign Up Screen" title="#SignUpScreen" src="./docs/assets/appgobarber-signup-removebg-preview.png" width="30%">
 </p>
 
