@@ -71,25 +71,25 @@ Need Authentication:
 <br />
 
 <p align="center" style="display: flex">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-removebg-preview.png" width="33%">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-email-removebg-preview.png" width="33%">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Sign Up Screen" title="#SignUpScreen" src="./docs/assets/appgobarber-signup-removebg-preview.png" width="33%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-removebg-preview.png" width="30%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Sign In Screen" title="#SignInScreen" src="./docs/assets/appgobarber-signin-email-removebg-preview.png" width="30%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Sign Up Screen" title="#SignUpScreen" src="./docs/assets/appgobarber-signup-removebg-preview.png" width="30%">
 </p>
 <br />
 
 ### **Dashboard & Schedule Appointment:**
 <br />
 <p align="center" style="display: flex">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Dashboard Screen" title="#DashboardScreen" src="./docs/assets/appgobarber-dashboard-removebg-preview.png" width="33%">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Dashboard Screen" title="#DashboardScreen" src="./docs/assets/appgobarber-scheduleappt-removebg-preview.png" width="33%">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Dashboard Screen" title="#DashboardScreen" src="./docs/assets/appgobarber-confirmation-removebg-preview.png" width="33%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Dashboard Screen" title="#DashboardScreen" src="./docs/assets/appgobarber-dashboard-removebg-preview.png" width="30%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Dashboard Screen" title="#DashboardScreen" src="./docs/assets/appgobarber-scheduleappt-removebg-preview.png" width="30%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Dashboard Screen" title="#DashboardScreen" src="./docs/assets/appgobarber-confirmation-removebg-preview.png" width="30%">
 </p>
 <br />
 
 ### **Profile:**
 <br />
 <p align="center" style="display: flex">
-  <img style="margin-right: 5px; max-width: 400px;" alt="Profile Screen" title="#ProfileScreen" src="./docs/assets/appgobarber-profile-removebg-preview.png" width="33%">
+  <img style="margin-right: 5px; max-width: 400px;" alt="Profile Screen" title="#ProfileScreen" src="./docs/assets/appgobarber-profile-removebg-preview.png" width="30%">
 </p>
 <br />
 
