@@ -94,7 +94,7 @@ Need Authentication:
 ### **Profile:**
 <br />
 
-<p align="center" style="display: flex; align-item: center; justify-content: center;">
+<p style="display: flex; align-item: center; justify-content: center;">
   <img style="max-width: 240px;" alt="Profile Screen" title="#ProfileScreen" src="./docs/assets/appgobarber-profile-removebg-preview.png" width="30%">
 </p>
 
